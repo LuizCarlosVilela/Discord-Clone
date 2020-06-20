@@ -1,7 +1,7 @@
 ## Recriando Interface do Discord
 O objetivo deste site é desenvolver conhecimento sobre a frameword, e  assim recritando uma interface bem usada no mercado que é o Discord.
 
-## Frameword Usada
+## Framework Usada
 Foi usada a framework ReactJs para fazer todo o front-end do site. Usamos o react com o template TypeScript.
 
 * ReactJS (FrameWork)
