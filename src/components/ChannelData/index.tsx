@@ -41,6 +41,12 @@ const ChannelData: React.FC = () => {
                     content="Deus é mais"
                 />
                 <ChannelMessage
+                    author="Belo Presidente"
+                    date="20/06/2020"
+                    content="Onde eu vim para '-' "
+                    isFriend
+                />
+                <ChannelMessage
                     author="Emanoel"
                     date="20/06/2020"
                     content="Gado Rei aqui hehe"
